@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Deprecated: this feature is now the MapCleanup module of [CS2-RetakeV4](https://github.com/NeuTroNBZh/CS2-RetakeV4)** (conservative detection, per-map corrections in game).
+> This plugin is only for servers still running the legacy [CS2-RETAKE (V3)](https://github.com/NeuTroNBZh/CS2-RETAKE). Do not run it next to RetakeV4.
+
 # 💥 BreakerAndOpenDoor
 
 > CounterStrikeSharp plugin for CS2 Retake servers - Automatic map cleanup
